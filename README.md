@@ -1,5 +1,5 @@
 EKS Cluster with Terraform
----------------------------
+==============================
 This repository contains the necessary code and configurations to deploy an Amazon Elastic Kubernetes Service (EKS) cluster using Terraform. The infrastructure provisioning and management tasks can be automated with Terraform, enabling easy creation and management of EKS clusters.
 
 Prerequisites
