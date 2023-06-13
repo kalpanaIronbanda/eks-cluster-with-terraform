@@ -18,7 +18,7 @@ To deploy an EKS cluster using Terraform, follow these steps:
 
 Clone this repository: 
 
-		git clone https://github.com/your-username/eks-cluster-with-terraform.git
+		git clone https://github.com/kalpanaIronbanda/eks-cluster-with-terraform.git
 
 Change into the repository directory: 
 
